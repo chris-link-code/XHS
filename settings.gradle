@@ -1,0 +1,2 @@
+rootProject.name = "XHS"
+include ':app'

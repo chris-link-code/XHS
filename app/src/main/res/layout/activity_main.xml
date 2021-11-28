@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <EditText
+            android:id="@+id/inText"
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+        android:text="文本----EditText"
+    </EditText>
+    <MultiAutoCompleteTextView
+            android:id="@+id/et"
+            android:layout_width="match_parent"
+            android:layout_height="450dp"
+            android:background="@color/cardview_light_background">
+        android:text="文本----TextView"
+    </MultiAutoCompleteTextView>
+    <Button
+            android:id="@+id/saveButton"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="START">
+        android:text="SAVE"
+    </Button>
+</LinearLayout>
