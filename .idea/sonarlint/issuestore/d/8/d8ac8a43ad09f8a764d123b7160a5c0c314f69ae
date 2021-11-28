@@ -1,0 +1,29 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ºÿ˚Ï
+P
+java:S1854":Remove this useless assignment to local variable "volume".(ô¨Å®
+A
+java:S1481"+Remove this unused "volume" local variable.(ô¨Å®
+X	java:S125"<This block of commented-out lines of code should be removed.(î∂ö¡8©˜ˇ¶÷/
+U
+java:S1128"3Remove this unused import 'android.os.Environment'.(…øã√˚ˇˇˇˇ8©˜ˇ¶÷/
+K
+java:S1128".Remove this unused import 'android.os.StatFs'.(∆≈∆›8™˜ˇ¶÷/
+U
+java:S1128"3Remove this unused import 'android.text.TextUtils'.(˚òΩ’¯ˇˇˇˇ8™˜ˇ¶÷/
+F
+java:S1128
+")Remove this unused import 'java.io.File'.(Ü–•≈8™˜ˇ¶÷/
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(∑Óôù˘ˇˇˇˇ8™˜ˇ¶÷/
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(¬°¢‰˛ˇˇˇˇ8´˜ˇ¶÷/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(˜âÓÉ8´˜ˇ¶÷/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(’Î±ƒ¯ˇˇˇˇ8´˜ˇ¶÷/
+M
+java:S1128"+Remove this unused import 'java.util.UUID'.(¿„ƒ£˙ˇˇˇˇ8¨˜ˇ¶÷/
+s
+java:S1128"QRemove this unused import 'androidx.core.content.ContextCompat.getSystemService'.(˚∆ø ¸ˇˇˇˇ8¨˜ˇ¶÷/

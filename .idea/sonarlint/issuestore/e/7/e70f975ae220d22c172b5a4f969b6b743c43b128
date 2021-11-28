@@ -1,0 +1,43 @@
+
+m
+java:S3008"WRename this field "MYLOG_SWITCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô½ 
+t
+java:S3008"^Rename this field "MYLOG_WRITE_TO_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·­®À
+k
+java:S3008"URename this field "MYLOG_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·©–æ
+{
+java:S3008"`Rename this field "MYLOG_PATH_SDCARD_DIR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôñ¦ıÿÿÿÿ
+z
+java:S3008"dRename this field "SDCARD_LOG_FILE_SAVE_DAYS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áğàµ
+s
+java:S3008"XRename this field "MYLOGFILEName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦×¥¹ıÿÿÿÿ
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ôñ¦ıÿÿÿÿ8©Óª§Ö/
+@
+java:S2885"%Make "myLogSdf" an instance variable.(©†¹‡øÿÿÿÿ
+?
+java:S2885"$Make "logfile" an instance variable.(Ü¼œœúÿÿÿÿ
+m
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŞÄãŠùÿÿÿÿ
+Q
+java:S1854j";Remove this useless assignment to local variable "dirPath".(ó¬ËÕ
+Y
+java:S1874j"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(ó¬ËÕ
+B
+java:S1481j",Remove this unused "dirPath" local variable.(ó¬ËÕ
+Q	java:S125p"<This block of commented-out lines of code should be removed.(Îé´
+N	java:S106r"9Replace this use of System.out or System.err by a logger.( £‰
+\	java:S899v"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+a
+java:S1874"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(ó¬ËÕ8ıŞ–§Ö/
+]	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8şŞ–§Ö/
+q
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8şŞ–§Ö/
+n
+java:S1104"SMake context a static final constant or non-public and provide accessors if needed.(±¹ï±úÿÿÿÿ
+@
+java:S5411N"*Use the primitive boolean expression here.(ò™Ôú
+E
+java:S5411Z"*Use the primitive boolean expression here.(˜ç–Îûÿÿÿÿ
+i
+java:S2095~"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ò¸‰8‰â–§Ö/
